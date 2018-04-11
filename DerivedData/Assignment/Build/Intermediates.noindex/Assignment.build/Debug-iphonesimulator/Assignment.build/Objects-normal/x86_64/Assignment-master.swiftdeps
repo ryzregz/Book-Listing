@@ -1,0 +1,9 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "be320c6f998d3658258eaf15f989df10"
+build_time: [1520339214, 427036000]
+inputs:
+  "/Users/mac/Downloads/Book Listing/Assignment/BookList.swift": [1507863237, 0]
+  "/Users/mac/Downloads/Book Listing/Assignment/Book.swift": [1507861006, 0]
+  "/Users/mac/Downloads/Book Listing/Assignment/ViewController.swift": [1507864460, 0]
+  "/Users/mac/Downloads/Book Listing/Assignment/AppDelegate.swift": [1507232823, 0]
+  "/Users/mac/Downloads/Book Listing/Assignment/BookCell.swift": [1507861005, 0]
